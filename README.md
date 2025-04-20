@@ -58,11 +58,6 @@ I'm a passionate front-end developer dedicated to crafting exceptional user expe
   <img alt="github-snake" src="https://raw.githubusercontent.com/saleh1992/saleh1992/output/github-snake.svg" />
 </picture>
 
----
-
-<div align="center">
-  <img src="[https://komarev.com/ghpvc/?username=saleh1992&color=blueviolet&style=flat-square](https://komarev.com/ghpvc/?username=saleh1992&color=blueviolet&style=flat-square)" alt="Profile views" />
-</div>
 
 
 
