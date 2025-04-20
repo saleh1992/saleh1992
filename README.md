@@ -41,8 +41,6 @@ I'm a passionate front-end developer dedicated to crafting exceptional user expe
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Template Languages
-![HAML](https://img.shields.io/badge/HAML-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 
 ## 📫 Let's Connect
@@ -60,5 +58,5 @@ I'm a passionate front-end developer dedicated to crafting exceptional user expe
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=saleh1992&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="[https://komarev.com/ghpvc/?username=saleh1992&color=blueviolet&style=flat-square](https://komarev.com/ghpvc/?username=saleh1992&color=blueviolet&style=flat-square)" alt="Profile views" />
 </div>
