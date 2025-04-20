@@ -42,24 +42,6 @@ I'm a passionate front-end developer dedicated to crafting exceptional user expe
 ### Template Languages
 ![HAML](https://img.shields.io/badge/HAML-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saleh1992&show_icons=true&theme=vue-dark" alt="Saleh's GitHub Stats" />
-</div>
-
-## 🌱 I'm Currently Learning
-
-- Advanced Vue.js patterns and performance optimization
-- Micro-frontend architecture
-- Web accessibility best practices
-- TypeScript advanced features
-
-## 🚀 Recent Projects
-
-- **Vue E-commerce Platform** - A modern shopping experience with Vuex state management
-- **Dashboard UI Library** - Reusable Vue components with Tailwind CSS
-- **Progressive Web App** - Offline-first application with Vue and service workers
 
 ## 📫 Let's Connect
 
