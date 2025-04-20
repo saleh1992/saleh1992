@@ -42,12 +42,14 @@ I'm a passionate front-end developer dedicated to crafting exceptional user expe
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
+## 📫 Get in Touch
 
-## 📫 Let's Connect
+- 🏠 Cairo, Egypt
+- 📧 Email: [salehbusiness1992@gmial.com](mailto:salehbusiness1992@gmial.com)
+- 🔗 [LinkedIn]([https://www.linkedin.com/in/saleh1992](https://www.linkedin.com/in/saleh-abd-elmoneam/))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saleh1992/saleh1992/output/github-snake-dark.svg" />
@@ -60,3 +62,6 @@ I'm a passionate front-end developer dedicated to crafting exceptional user expe
 <div align="center">
   <img src="[https://komarev.com/ghpvc/?username=saleh1992&color=blueviolet&style=flat-square](https://komarev.com/ghpvc/?username=saleh1992&color=blueviolet&style=flat-square)" alt="Profile views" />
 </div>
+
+
+
