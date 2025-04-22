@@ -1,6 +1,6 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World! I'm Saleh Abd Elmonim 👋🏼
+# I'm Saleh Abd Elmonim 👋🏼
 
 [![Frontend Developer](https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge)](https://github.com/saleh1992)
 [![Vue.js Expert](https://img.shields.io/badge/Vue.js-Expert-42b883?style=for-the-badge&logo=vue.js)](https://github.com/saleh1992)
